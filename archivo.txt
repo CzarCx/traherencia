@@ -1,0 +1,12 @@
+
+Nombre: César
+Apellido Paterno: García
+Apellido Materno: Bautista
+Boleta: 2022090363
+Grupo: 4IV9
+
+Nombre: César
+Apellido Paterno: Garcia
+Apellido Materno: Bautista
+Boleta: 2022090363
+Grupo: 4IV9

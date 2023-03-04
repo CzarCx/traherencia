@@ -1,0 +1,42 @@
+
+Nombre: 
+Apellido Paterno: 
+Apellido Materno: 
+Boleta: 3333
+Grupo: 
+
+Nombre: 333
+Apellido Paterno: 333
+Apellido Materno: 3333
+Boleta: 22
+Grupo: 
+
+Nombre: Cesar Emiliano
+Apellido Paterno: Garcia
+Apellido Materno: Bautista
+Boleta: 2022090363
+Grupo: 4IV9
+
+Nombre: 2323
+Apellido Paterno: 23233
+Apellido Materno: C3C3
+Boleta: 2322
+Grupo: 232S
+
+Nombre: Fdfdfd Cesar
+Apellido Paterno: Fdfd
+Apellido Materno: Ddfdf
+Boleta: 3342323
+Grupo: DD23S
+
+Nombre: César Arturo
+Apellido Paterno: Hérnadez
+Apellido Materno: Feregrino
+Boleta: 2022090203
+Grupo: 4IV9
+
+Nombre: César
+Apellido Paterno: García
+Apellido Materno: Bautista
+Boleta: 2022090363
+Grupo: 4IV99
